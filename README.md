@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vichuvinku@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WSss9dTzigxL3ZzLfE0pnP1lZU4Ny9YT/view?usp=drivesdk](https://drive.google.com/file/d/1WSss9dTzigxL3ZzLfE0pnP1lZU4Ny9YT/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WSss9dTzigxL3ZzLfE0pnP1lZU4Ny9YT/view?usp=drivesdk](https://drive.google.com/file/d/1NJP4-wQRbO3p-GMHdGYVyCZITf3Tp5aX/view?usp=drive_link)
 
 - ⚡ Fun fact **I can spend hours debugging a single line of code… only to realize I forgot a semicolon 😅.**
 
