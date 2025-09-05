@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GAZE CONNECT COMMUNICATION SYSTEM FOR LOCKED IN SYNDROME PATIENTS**
 
-- 🌱 I’m currently learning **Java Script, React ,**
+- 🌱 I’m currently learning **Java Script, React .**
 
 - 💬 Ask me about **java oops concept,java collection framework**
 
